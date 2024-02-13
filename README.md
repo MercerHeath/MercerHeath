@@ -4,11 +4,7 @@
 - 🔭 I'm currently working on, a full stack electoral prediction system that updates predictions based on current polling and uses artificial inteligence to analyze longterm and shorterm trends.
 - 🌱 I am currently learning Machine Language and Artificial Inteligence and how to implement their associated libraries.
 
-<p align="center">
-  <a href="www.linkedin.com/in/heath-mercer">
-    <img src="https://1000logos.net/wp-content/uploads/2023/01/Linkedin-logo.jpg" alt="Heath Mercer Linkedin"/>
-  </a>
-</p>
+[<img src="path/to/image.png">]([https://link-to-your-URL/](https://www.linkedin.com/in/heath-mercer/))
 
 <!--
 **MercerHeath/MercerHeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
